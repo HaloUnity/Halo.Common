@@ -1,12 +1,12 @@
 language: csharp
-solution: ./GladNet.PhotonServer.sln
+solution: ./Halo.Common.sln
 
 before_install:
   - git submodule update --init --recursive
 
 install:
   - nuget install NUnit.Runners -Version 3.0.1 -OutputDirectory tests/testrunner
-  - nuget restore GladNet.PhotonServer.sln
+  - nuget restore Halo.Common.sln
 
 before_script:
   - chmod +x ./lib/BuildDependencies.sh
