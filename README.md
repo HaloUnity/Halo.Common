@@ -12,6 +12,18 @@ To use this project you'll first need a couple of things:
 Once you clone this reposistory you'll need to do the following before opening the .sln file:
   - Run lib/BuildDepedencies.bat it will init submodules and compile dependencies.
 
+##Tests
+
+#### Linux/Mono - Unit Tests
+||Debug x86|Debug x64|Release x86|Release x64|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|**master**| N/A | N/A | N/A | [![Build Status](https://travis-ci.org/HaloUnity/Halo.Unity.Common.svg?branch=master)](https://travis-ci.org/HaloUnity/Halo.Unity.Common) |
+|**dev**| N/A | N/A | N/A | [![Build Status](https://travis-ci.org/HaloUnity/Halo.Unity.Common.svg?branch=dev)](https://travis-ci.org/HaloUnity/Halo.Unity.Common)|
+
+#### Windows - Unit Tests
+
+(Done locally)
+
 ##Licensing
 This project is licensed under the MIT license however you must adhere to the following license and terms dictated by Microsoft:
 
