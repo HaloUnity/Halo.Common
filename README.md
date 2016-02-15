@@ -17,8 +17,8 @@ Once you clone this reposistory you'll need to do the following before opening t
 #### Linux/Mono - Unit Tests
 ||Debug x86|Debug x64|Release x86|Release x64|
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|**master**| N/A | N/A | N/A | [![Build Status](https://travis-ci.org/HaloUnity/Halo.Unity.Common.svg?branch=master)](https://travis-ci.org/HaloUnity/Halo.Unity.Common) |
-|**dev**| N/A | N/A | N/A | [![Build Status](https://travis-ci.org/HaloUnity/Halo.Unity.Common.svg?branch=dev)](https://travis-ci.org/HaloUnity/Halo.Unity.Common)|
+|**master**| N/A | N/A | N/A | [![Build Status](https://travis-ci.org/HaloUnity/Halo.Common.svg?branch=master)](https://travis-ci.org/HaloUnity/Halo.Common) |
+|**dev**| N/A | N/A | N/A | [![Build Status](https://travis-ci.org/HaloUnity/Halo.Common.svg?branch=dev)](https://travis-ci.org/HaloUnity/Halo.Common)|
 
 #### Windows - Unit Tests
 
