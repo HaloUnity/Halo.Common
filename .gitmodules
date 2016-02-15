@@ -1,6 +1,4 @@
-[submodule "lib/GladBehaviour"]
-	path = lib/GladBehaviour
-	url = https://github.com/HaloUnity/GladBehaviour
+
 [submodule "lib/Net35Essentials"]
 	path = lib/Net35Essentials
 	url = https://github.com/HaloUnity/.Net3.5Essentials.git
