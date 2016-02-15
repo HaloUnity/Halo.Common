@@ -1,2 +1,2 @@
 # Halo.Common
-Project contains code common to client and server.
+Project for shared code common to client and server.
